@@ -1,0 +1,2 @@
+applicationId=203340981
+returnAds=true
